@@ -1,0 +1,900 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFA66FF-EF46-44AB-98A2-22B3E08B06D6}|RoomReservationApi.Infrastructure\\RoomReservationApi.Infrastructure.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.infrastructure\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCFA66FF-EF46-44AB-98A2-22B3E08B06D6}|RoomReservationApi.Infrastructure\\RoomReservationApi.Infrastructure.csproj|solutionrelative:roomreservationapi.infrastructure\\extensions\\serviceextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C7340D-F32E-4DF5-A2B9-0085843CDA58}|RoomReservationApi.Api\\RoomReservationApi.Api.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C7340D-F32E-4DF5-A2B9-0085843CDA58}|RoomReservationApi.Api\\RoomReservationApi.Api.csproj|solutionrelative:roomreservationapi.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C7340D-F32E-4DF5-A2B9-0085843CDA58}|RoomReservationApi.Api\\RoomReservationApi.Api.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.api\\middleware\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C7340D-F32E-4DF5-A2B9-0085843CDA58}|RoomReservationApi.Api\\RoomReservationApi.Api.csproj|solutionrelative:roomreservationapi.api\\middleware\\globalexceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F3F2594-7F1D-45F7-9B4C-9C92C40C4A05}|RoomReservationApi.Domain\\RoomReservationApi.Domain.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.domain\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F3F2594-7F1D-45F7-9B4C-9C92C40C4A05}|RoomReservationApi.Domain\\RoomReservationApi.Domain.csproj|solutionrelative:roomreservationapi.domain\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F3F2594-7F1D-45F7-9B4C-9C92C40C4A05}|RoomReservationApi.Domain\\RoomReservationApi.Domain.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.domain\\exceptions\\businessexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F3F2594-7F1D-45F7-9B4C-9C92C40C4A05}|RoomReservationApi.Domain\\RoomReservationApi.Domain.csproj|solutionrelative:roomreservationapi.domain\\exceptions\\businessexceptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFA66FF-EF46-44AB-98A2-22B3E08B06D6}|RoomReservationApi.Infrastructure\\RoomReservationApi.Infrastructure.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.infrastructure\\roomreservationapi.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FCFA66FF-EF46-44AB-98A2-22B3E08B06D6}|RoomReservationApi.Infrastructure\\RoomReservationApi.Infrastructure.csproj|solutionrelative:roomreservationapi.infrastructure\\roomreservationapi.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F4D762-DF6B-4402-8527-819924195497}|RoomReservationApi.Application\\RoomReservationApi.Application.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.application\\validators\\createroomvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F4D762-DF6B-4402-8527-819924195497}|RoomReservationApi.Application\\RoomReservationApi.Application.csproj|solutionrelative:roomreservationapi.application\\validators\\createroomvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F4D762-DF6B-4402-8527-819924195497}|RoomReservationApi.Application\\RoomReservationApi.Application.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.application\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F4D762-DF6B-4402-8527-819924195497}|RoomReservationApi.Application\\RoomReservationApi.Application.csproj|solutionrelative:roomreservationapi.application\\services\\reservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6159421D-A1F3-4245-8D62-4D0D63880AA4}|RoomReservationApi.Shared\\RoomReservationApi.Shared.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.shared\\entities\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6159421D-A1F3-4245-8D62-4D0D63880AA4}|RoomReservationApi.Shared\\RoomReservationApi.Shared.csproj|solutionrelative:roomreservationapi.shared\\entities\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6159421D-A1F3-4245-8D62-4D0D63880AA4}|RoomReservationApi.Shared\\RoomReservationApi.Shared.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.shared\\common\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6159421D-A1F3-4245-8D62-4D0D63880AA4}|RoomReservationApi.Shared\\RoomReservationApi.Shared.csproj|solutionrelative:roomreservationapi.shared\\common\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F4D762-DF6B-4402-8527-819924195497}|RoomReservationApi.Application\\RoomReservationApi.Application.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.application\\interfaces\\services\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F4D762-DF6B-4402-8527-819924195497}|RoomReservationApi.Application\\RoomReservationApi.Application.csproj|solutionrelative:roomreservationapi.application\\interfaces\\services\\ireservationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C7340D-F32E-4DF5-A2B9-0085843CDA58}|RoomReservationApi.Api\\RoomReservationApi.Api.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76C7340D-F32E-4DF5-A2B9-0085843CDA58}|RoomReservationApi.Api\\RoomReservationApi.Api.csproj|solutionrelative:roomreservationapi.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFA66FF-EF46-44AB-98A2-22B3E08B06D6}|RoomReservationApi.Infrastructure\\RoomReservationApi.Infrastructure.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.infrastructure\\repositories\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCFA66FF-EF46-44AB-98A2-22B3E08B06D6}|RoomReservationApi.Infrastructure\\RoomReservationApi.Infrastructure.csproj|solutionrelative:roomreservationapi.infrastructure\\repositories\\reservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F4D762-DF6B-4402-8527-819924195497}|RoomReservationApi.Application\\RoomReservationApi.Application.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F4D762-DF6B-4402-8527-819924195497}|RoomReservationApi.Application\\RoomReservationApi.Application.csproj|solutionrelative:roomreservationapi.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F3F2594-7F1D-45F7-9B4C-9C92C40C4A05}|RoomReservationApi.Domain\\RoomReservationApi.Domain.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.domain\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F3F2594-7F1D-45F7-9B4C-9C92C40C4A05}|RoomReservationApi.Domain\\RoomReservationApi.Domain.csproj|solutionrelative:roomreservationapi.domain\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F4D762-DF6B-4402-8527-819924195497}|RoomReservationApi.Application\\RoomReservationApi.Application.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.application\\dtos\\user\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F4D762-DF6B-4402-8527-819924195497}|RoomReservationApi.Application\\RoomReservationApi.Application.csproj|solutionrelative:roomreservationapi.application\\dtos\\user\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFA66FF-EF46-44AB-98A2-22B3E08B06D6}|RoomReservationApi.Infrastructure\\RoomReservationApi.Infrastructure.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.infrastructure\\data\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCFA66FF-EF46-44AB-98A2-22B3E08B06D6}|RoomReservationApi.Infrastructure\\RoomReservationApi.Infrastructure.csproj|solutionrelative:roomreservationapi.infrastructure\\data\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F4D762-DF6B-4402-8527-819924195497}|RoomReservationApi.Application\\RoomReservationApi.Application.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.application\\dtos\\user\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F4D762-DF6B-4402-8527-819924195497}|RoomReservationApi.Application\\RoomReservationApi.Application.csproj|solutionrelative:roomreservationapi.application\\dtos\\user\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F4D762-DF6B-4402-8527-819924195497}|RoomReservationApi.Application\\RoomReservationApi.Application.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.application\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F4D762-DF6B-4402-8527-819924195497}|RoomReservationApi.Application\\RoomReservationApi.Application.csproj|solutionrelative:roomreservationapi.application\\dtos\\user\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F4D762-DF6B-4402-8527-819924195497}|RoomReservationApi.Application\\RoomReservationApi.Application.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.application\\dtos\\roomwithreservationsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F4D762-DF6B-4402-8527-819924195497}|RoomReservationApi.Application\\RoomReservationApi.Application.csproj|solutionrelative:roomreservationapi.application\\dtos\\roomwithreservationsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F3F2594-7F1D-45F7-9B4C-9C92C40C4A05}|RoomReservationApi.Domain\\RoomReservationApi.Domain.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F3F2594-7F1D-45F7-9B4C-9C92C40C4A05}|RoomReservationApi.Domain\\RoomReservationApi.Domain.csproj|solutionrelative:roomreservationapi.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFA66FF-EF46-44AB-98A2-22B3E08B06D6}|RoomReservationApi.Infrastructure\\RoomReservationApi.Infrastructure.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCFA66FF-EF46-44AB-98A2-22B3E08B06D6}|RoomReservationApi.Infrastructure\\RoomReservationApi.Infrastructure.csproj|solutionrelative:roomreservationapi.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFA66FF-EF46-44AB-98A2-22B3E08B06D6}|RoomReservationApi.Infrastructure\\RoomReservationApi.Infrastructure.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.infrastructure\\data\\configurations\\reservationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCFA66FF-EF46-44AB-98A2-22B3E08B06D6}|RoomReservationApi.Infrastructure\\RoomReservationApi.Infrastructure.csproj|solutionrelative:roomreservationapi.infrastructure\\data\\configurations\\reservationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C7340D-F32E-4DF5-A2B9-0085843CDA58}|RoomReservationApi.Api\\RoomReservationApi.Api.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.api\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C7340D-F32E-4DF5-A2B9-0085843CDA58}|RoomReservationApi.Api\\RoomReservationApi.Api.csproj|solutionrelative:roomreservationapi.api\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C7340D-F32E-4DF5-A2B9-0085843CDA58}|RoomReservationApi.Api\\RoomReservationApi.Api.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.api\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76C7340D-F32E-4DF5-A2B9-0085843CDA58}|RoomReservationApi.Api\\RoomReservationApi.Api.csproj|solutionrelative:roomreservationapi.api\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F4D762-DF6B-4402-8527-819924195497}|RoomReservationApi.Application\\RoomReservationApi.Application.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.application\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F4D762-DF6B-4402-8527-819924195497}|RoomReservationApi.Application\\RoomReservationApi.Application.csproj|solutionrelative:roomreservationapi.application\\services\\roomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F4D762-DF6B-4402-8527-819924195497}|RoomReservationApi.Application\\RoomReservationApi.Application.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.application\\interfaces\\services\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F4D762-DF6B-4402-8527-819924195497}|RoomReservationApi.Application\\RoomReservationApi.Application.csproj|solutionrelative:roomreservationapi.application\\interfaces\\services\\iroomservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F4D762-DF6B-4402-8527-819924195497}|RoomReservationApi.Application\\RoomReservationApi.Application.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.application\\dtos\\createreservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F4D762-DF6B-4402-8527-819924195497}|RoomReservationApi.Application\\RoomReservationApi.Application.csproj|solutionrelative:roomreservationapi.application\\dtos\\createreservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F4D762-DF6B-4402-8527-819924195497}|RoomReservationApi.Application\\RoomReservationApi.Application.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.application\\dtos\\createroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F4D762-DF6B-4402-8527-819924195497}|RoomReservationApi.Application\\RoomReservationApi.Application.csproj|solutionrelative:roomreservationapi.application\\dtos\\createroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F4D762-DF6B-4402-8527-819924195497}|RoomReservationApi.Application\\RoomReservationApi.Application.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.application\\dtos\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F4D762-DF6B-4402-8527-819924195497}|RoomReservationApi.Application\\RoomReservationApi.Application.csproj|solutionrelative:roomreservationapi.application\\dtos\\reservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F4D762-DF6B-4402-8527-819924195497}|RoomReservationApi.Application\\RoomReservationApi.Application.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.application\\dtos\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F4D762-DF6B-4402-8527-819924195497}|RoomReservationApi.Application\\RoomReservationApi.Application.csproj|solutionrelative:roomreservationapi.application\\dtos\\roomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F3F2594-7F1D-45F7-9B4C-9C92C40C4A05}|RoomReservationApi.Domain\\RoomReservationApi.Domain.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.domain\\enums\\reservationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F3F2594-7F1D-45F7-9B4C-9C92C40C4A05}|RoomReservationApi.Domain\\RoomReservationApi.Domain.csproj|solutionrelative:roomreservationapi.domain\\enums\\reservationstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F3F2594-7F1D-45F7-9B4C-9C92C40C4A05}|RoomReservationApi.Domain\\RoomReservationApi.Domain.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.domain\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F3F2594-7F1D-45F7-9B4C-9C92C40C4A05}|RoomReservationApi.Domain\\RoomReservationApi.Domain.csproj|solutionrelative:roomreservationapi.domain\\entities\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F4D762-DF6B-4402-8527-819924195497}|RoomReservationApi.Application\\RoomReservationApi.Application.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.application\\validators\\createreservationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F4D762-DF6B-4402-8527-819924195497}|RoomReservationApi.Application\\RoomReservationApi.Application.csproj|solutionrelative:roomreservationapi.application\\validators\\createreservationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFA66FF-EF46-44AB-98A2-22B3E08B06D6}|RoomReservationApi.Infrastructure\\RoomReservationApi.Infrastructure.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.infrastructure\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCFA66FF-EF46-44AB-98A2-22B3E08B06D6}|RoomReservationApi.Infrastructure\\RoomReservationApi.Infrastructure.csproj|solutionrelative:roomreservationapi.infrastructure\\repositories\\roomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFA66FF-EF46-44AB-98A2-22B3E08B06D6}|RoomReservationApi.Infrastructure\\RoomReservationApi.Infrastructure.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.infrastructure\\data\\configurations\\roomconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCFA66FF-EF46-44AB-98A2-22B3E08B06D6}|RoomReservationApi.Infrastructure\\RoomReservationApi.Infrastructure.csproj|solutionrelative:roomreservationapi.infrastructure\\data\\configurations\\roomconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F4D762-DF6B-4402-8527-819924195497}|RoomReservationApi.Application\\RoomReservationApi.Application.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.application\\validators\\updatereservationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F4D762-DF6B-4402-8527-819924195497}|RoomReservationApi.Application\\RoomReservationApi.Application.csproj|solutionrelative:roomreservationapi.application\\validators\\updatereservationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76C7340D-F32E-4DF5-A2B9-0085843CDA58}|RoomReservationApi.Api\\RoomReservationApi.Api.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{76C7340D-F32E-4DF5-A2B9-0085843CDA58}|RoomReservationApi.Api\\RoomReservationApi.Api.csproj|solutionrelative:roomreservationapi.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F4D762-DF6B-4402-8527-819924195497}|RoomReservationApi.Application\\RoomReservationApi.Application.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.application\\validators\\updateroomvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F4D762-DF6B-4402-8527-819924195497}|RoomReservationApi.Application\\RoomReservationApi.Application.csproj|solutionrelative:roomreservationapi.application\\validators\\updateroomvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F4D762-DF6B-4402-8527-819924195497}|RoomReservationApi.Application\\RoomReservationApi.Application.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.application\\dtos\\updateroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F4D762-DF6B-4402-8527-819924195497}|RoomReservationApi.Application\\RoomReservationApi.Application.csproj|solutionrelative:roomreservationapi.application\\dtos\\updateroomdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F4D762-DF6B-4402-8527-819924195497}|RoomReservationApi.Application\\RoomReservationApi.Application.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.application\\dtos\\updatereservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44F4D762-DF6B-4402-8527-819924195497}|RoomReservationApi.Application\\RoomReservationApi.Application.csproj|solutionrelative:roomreservationapi.application\\dtos\\updatereservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F3F2594-7F1D-45F7-9B4C-9C92C40C4A05}|RoomReservationApi.Domain\\RoomReservationApi.Domain.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.domain\\interfaces\\repositories\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F3F2594-7F1D-45F7-9B4C-9C92C40C4A05}|RoomReservationApi.Domain\\RoomReservationApi.Domain.csproj|solutionrelative:roomreservationapi.domain\\interfaces\\repositories\\ireservationrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F3F2594-7F1D-45F7-9B4C-9C92C40C4A05}|RoomReservationApi.Domain\\RoomReservationApi.Domain.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.domain\\interfaces\\repositories\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F3F2594-7F1D-45F7-9B4C-9C92C40C4A05}|RoomReservationApi.Domain\\RoomReservationApi.Domain.csproj|solutionrelative:roomreservationapi.domain\\interfaces\\repositories\\iroomrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44F4D762-DF6B-4402-8527-819924195497}|RoomReservationApi.Application\\RoomReservationApi.Application.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.application\\roomreservationapi.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{44F4D762-DF6B-4402-8527-819924195497}|RoomReservationApi.Application\\RoomReservationApi.Application.csproj|solutionrelative:roomreservationapi.application\\roomreservationapi.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFA66FF-EF46-44AB-98A2-22B3E08B06D6}|RoomReservationApi.Infrastructure\\RoomReservationApi.Infrastructure.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.infrastructure\\migrations\\20260616152336_adduserentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCFA66FF-EF46-44AB-98A2-22B3E08B06D6}|RoomReservationApi.Infrastructure\\RoomReservationApi.Infrastructure.csproj|solutionrelative:roomreservationapi.infrastructure\\migrations\\20260616152336_adduserentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FCFA66FF-EF46-44AB-98A2-22B3E08B06D6}|RoomReservationApi.Infrastructure\\RoomReservationApi.Infrastructure.csproj|c:\\projects\\git\\netdatafirst\\netcodefirstfarm\\roomreservationapi.infrastructure\\migrations\\20260613212843_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FCFA66FF-EF46-44AB-98A2-22B3E08B06D6}|RoomReservationApi.Infrastructure\\RoomReservationApi.Infrastructure.csproj|solutionrelative:roomreservationapi.infrastructure\\migrations\\20260613212843_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 55,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RoomReservationApi.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RoomReservationApi.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAABkAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T18:16:02.056Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Domain\\Entities\\Reservation.cs",
+              "RelativeDocumentMoniker": "RoomReservationApi.Domain\\Entities\\Reservation.cs",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Domain\\Entities\\Reservation.cs",
+              "RelativeToolTip": "RoomReservationApi.Domain\\Entities\\Reservation.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvwIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T16:03:07.788Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Domain\\Entities\\Room.cs",
+              "RelativeDocumentMoniker": "RoomReservationApi.Domain\\Entities\\Room.cs",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Domain\\Entities\\Room.cs",
+              "RelativeToolTip": "RoomReservationApi.Domain\\Entities\\Room.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABIAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T16:01:59.67Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ReservationsController.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Api\\Controllers\\ReservationsController.cs",
+              "RelativeDocumentMoniker": "RoomReservationApi.Api\\Controllers\\ReservationsController.cs",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Api\\Controllers\\ReservationsController.cs",
+              "RelativeToolTip": "RoomReservationApi.Api\\Controllers\\ReservationsController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T18:56:52.781Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Infrastructure\\Extensions\\ServiceExtensions.cs",
+              "RelativeDocumentMoniker": "RoomReservationApi.Infrastructure\\Extensions\\ServiceExtensions.cs",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Infrastructure\\Extensions\\ServiceExtensions.cs",
+              "RelativeToolTip": "RoomReservationApi.Infrastructure\\Extensions\\ServiceExtensions.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAApwBIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T18:28:31.532Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Api\\Program.cs",
+              "RelativeDocumentMoniker": "RoomReservationApi.Api\\Program.cs",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Api\\Program.cs",
+              "RelativeToolTip": "RoomReservationApi.Api\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACoAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T18:50:00.486Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:137:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:140:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:141:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:12:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BusinessExceptions.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Domain\\Exceptions\\BusinessExceptions.cs",
+              "RelativeDocumentMoniker": "RoomReservationApi.Domain\\Exceptions\\BusinessExceptions.cs",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Domain\\Exceptions\\BusinessExceptions.cs",
+              "RelativeToolTip": "RoomReservationApi.Domain\\Exceptions\\BusinessExceptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T18:51:16.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GlobalExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Api\\Middleware\\GlobalExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "RoomReservationApi.Api\\Middleware\\GlobalExceptionMiddleware.cs",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Api\\Middleware\\GlobalExceptionMiddleware.cs",
+              "RelativeToolTip": "RoomReservationApi.Api\\Middleware\\GlobalExceptionMiddleware.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAACoAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-18T18:39:37.343Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RoomReservationApi.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Infrastructure\\RoomReservationApi.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "RoomReservationApi.Infrastructure\\RoomReservationApi.Infrastructure.csproj",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Infrastructure\\RoomReservationApi.Infrastructure.csproj",
+              "RelativeToolTip": "RoomReservationApi.Infrastructure\\RoomReservationApi.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-13T15:35:05.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotFoundException.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Domain\\Exceptions\\NotFoundException.cs",
+              "RelativeDocumentMoniker": "RoomReservationApi.Domain\\Exceptions\\NotFoundException.cs",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Domain\\Exceptions\\NotFoundException.cs",
+              "RelativeToolTip": "RoomReservationApi.Domain\\Exceptions\\NotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T16:05:56.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReservationService.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Application\\Services\\ReservationService.cs",
+              "RelativeDocumentMoniker": "RoomReservationApi.Application\\Services\\ReservationService.cs",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Application\\Services\\ReservationService.cs",
+              "RelativeToolTip": "RoomReservationApi.Application\\Services\\ReservationService.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAAAEQAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T17:56:15.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Shared\\Common\\PagedResult.cs",
+              "RelativeDocumentMoniker": "RoomReservationApi.Shared\\Common\\PagedResult.cs",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Shared\\Common\\PagedResult.cs",
+              "RelativeToolTip": "RoomReservationApi.Shared\\Common\\PagedResult.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T17:09:26.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Shared\\Entities\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "RoomReservationApi.Shared\\Entities\\ApiResponse.cs",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Shared\\Entities\\ApiResponse.cs",
+              "RelativeToolTip": "RoomReservationApi.Shared\\Entities\\ApiResponse.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAACAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T16:54:21.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RoomReservationApi.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RoomReservationApi.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAowB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-13T21:33:23.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateRoomValidator.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Application\\Validators\\CreateRoomValidator.cs",
+              "RelativeDocumentMoniker": "RoomReservationApi.Application\\Validators\\CreateRoomValidator.cs",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Application\\Validators\\CreateRoomValidator.cs",
+              "RelativeToolTip": "RoomReservationApi.Application\\Validators\\CreateRoomValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T18:35:52.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReservationRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Infrastructure\\Repositories\\ReservationRepository.cs",
+              "RelativeDocumentMoniker": "RoomReservationApi.Infrastructure\\Repositories\\ReservationRepository.cs",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Infrastructure\\Repositories\\ReservationRepository.cs",
+              "RelativeToolTip": "RoomReservationApi.Infrastructure\\Repositories\\ReservationRepository.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAAAFgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T18:14:25.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Application\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "RoomReservationApi.Application\\Mappings\\MappingProfile.cs",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Application\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "RoomReservationApi.Application\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T19:01:24.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateUserDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Application\\DTOs\\User\\CreateUserDto.cs",
+              "RelativeDocumentMoniker": "RoomReservationApi.Application\\DTOs\\User\\CreateUserDto.cs",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Application\\DTOs\\User\\CreateUserDto.cs",
+              "RelativeToolTip": "RoomReservationApi.Application\\DTOs\\User\\CreateUserDto.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAArwAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T14:28:53.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IReservationService.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Application\\Interfaces\\Services\\IReservationService.cs",
+              "RelativeDocumentMoniker": "RoomReservationApi.Application\\Interfaces\\Services\\IReservationService.cs",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Application\\Interfaces\\Services\\IReservationService.cs",
+              "RelativeToolTip": "RoomReservationApi.Application\\Interfaces\\Services\\IReservationService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T17:25:30.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Application\\DTOs\\User\\UserDto.cs",
+              "RelativeDocumentMoniker": "RoomReservationApi.Application\\DTOs\\User\\UserDto.cs",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Application\\DTOs\\User\\UserDto.cs",
+              "RelativeToolTip": "RoomReservationApi.Application\\DTOs\\User\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T15:55:04.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UpdateUserDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Application\\DTOs\\User\\UpdateUserDto.cs",
+              "RelativeDocumentMoniker": "RoomReservationApi.Application\\DTOs\\User\\UpdateUserDto.cs",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Application\\DTOs\\User\\UpdateUserDto.cs",
+              "RelativeToolTip": "RoomReservationApi.Application\\DTOs\\User\\UpdateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T14:29:56.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Infrastructure\\Data\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "RoomReservationApi.Infrastructure\\Data\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Infrastructure\\Data\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "RoomReservationApi.Infrastructure\\Data\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAADgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T15:00:33.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20260616152336_AddUserEntity.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Infrastructure\\Migrations\\20260616152336_AddUserEntity.cs",
+              "RelativeDocumentMoniker": "RoomReservationApi.Infrastructure\\Migrations\\20260616152336_AddUserEntity.cs",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Infrastructure\\Migrations\\20260616152336_AddUserEntity.cs",
+              "RelativeToolTip": "RoomReservationApi.Infrastructure\\Migrations\\20260616152336_AddUserEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-16T15:23:36.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "RoomReservationApi.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "RoomReservationApi.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T15:48:53.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RoomWithReservationsDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Application\\DTOs\\RoomWithReservationsDto.cs",
+              "RelativeDocumentMoniker": "RoomReservationApi.Application\\DTOs\\RoomWithReservationsDto.cs",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Application\\DTOs\\RoomWithReservationsDto.cs",
+              "RelativeToolTip": "RoomReservationApi.Application\\DTOs\\RoomWithReservationsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-15T15:11:32.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ReservationConfiguration.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Infrastructure\\Data\\Configurations\\ReservationConfiguration.cs",
+              "RelativeDocumentMoniker": "RoomReservationApi.Infrastructure\\Data\\Configurations\\ReservationConfiguration.cs",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Infrastructure\\Data\\Configurations\\ReservationConfiguration.cs",
+              "RelativeToolTip": "RoomReservationApi.Infrastructure\\Data\\Configurations\\ReservationConfiguration.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowC8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T21:11:02.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RoomsController.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Api\\Controllers\\RoomsController.cs",
+              "RelativeDocumentMoniker": "RoomReservationApi.Api\\Controllers\\RoomsController.cs",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Api\\Controllers\\RoomsController.cs",
+              "RelativeToolTip": "RoomReservationApi.Api\\Controllers\\RoomsController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAACUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T18:54:54.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "RoomService.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Application\\Services\\RoomService.cs",
+              "RelativeDocumentMoniker": "RoomReservationApi.Application\\Services\\RoomService.cs",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Application\\Services\\RoomService.cs",
+              "RelativeToolTip": "RoomReservationApi.Application\\Services\\RoomService.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T17:50:06.477Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IRoomService.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Application\\Interfaces\\Services\\IRoomService.cs",
+              "RelativeDocumentMoniker": "RoomReservationApi.Application\\Interfaces\\Services\\IRoomService.cs",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Application\\Interfaces\\Services\\IRoomService.cs",
+              "RelativeToolTip": "RoomReservationApi.Application\\Interfaces\\Services\\IRoomService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T17:23:52.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "CreateReservationDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Application\\DTOs\\CreateReservationDto.cs",
+              "RelativeDocumentMoniker": "RoomReservationApi.Application\\DTOs\\CreateReservationDto.cs",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Application\\DTOs\\CreateReservationDto.cs",
+              "RelativeToolTip": "RoomReservationApi.Application\\DTOs\\CreateReservationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T17:46:00.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "CreateRoomDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Application\\DTOs\\CreateRoomDto.cs",
+              "RelativeDocumentMoniker": "RoomReservationApi.Application\\DTOs\\CreateRoomDto.cs",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Application\\DTOs\\CreateRoomDto.cs",
+              "RelativeToolTip": "RoomReservationApi.Application\\DTOs\\CreateRoomDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T17:14:02.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ReservationDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Application\\DTOs\\ReservationDto.cs",
+              "RelativeDocumentMoniker": "RoomReservationApi.Application\\DTOs\\ReservationDto.cs",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Application\\DTOs\\ReservationDto.cs",
+              "RelativeToolTip": "RoomReservationApi.Application\\DTOs\\ReservationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T17:40:52.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "RoomDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Application\\DTOs\\RoomDto.cs",
+              "RelativeDocumentMoniker": "RoomReservationApi.Application\\DTOs\\RoomDto.cs",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Application\\DTOs\\RoomDto.cs",
+              "RelativeToolTip": "RoomReservationApi.Application\\DTOs\\RoomDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T17:13:02.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ReservationStatus.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Domain\\Enums\\ReservationStatus.cs",
+              "RelativeDocumentMoniker": "RoomReservationApi.Domain\\Enums\\ReservationStatus.cs",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Domain\\Enums\\ReservationStatus.cs",
+              "RelativeToolTip": "RoomReservationApi.Domain\\Enums\\ReservationStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T16:03:56.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CreateReservationValidator.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Application\\Validators\\CreateReservationValidator.cs",
+              "RelativeDocumentMoniker": "RoomReservationApi.Application\\Validators\\CreateReservationValidator.cs",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Application\\Validators\\CreateReservationValidator.cs",
+              "RelativeToolTip": "RoomReservationApi.Application\\Validators\\CreateReservationValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T18:39:44.069Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "RoomRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Infrastructure\\Repositories\\RoomRepository.cs",
+              "RelativeDocumentMoniker": "RoomReservationApi.Infrastructure\\Repositories\\RoomRepository.cs",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Infrastructure\\Repositories\\RoomRepository.cs",
+              "RelativeToolTip": "RoomReservationApi.Infrastructure\\Repositories\\RoomRepository.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAApwBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T18:12:23.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "RoomConfiguration.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Infrastructure\\Data\\Configurations\\RoomConfiguration.cs",
+              "RelativeDocumentMoniker": "RoomReservationApi.Infrastructure\\Data\\Configurations\\RoomConfiguration.cs",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Infrastructure\\Data\\Configurations\\RoomConfiguration.cs",
+              "RelativeToolTip": "RoomReservationApi.Infrastructure\\Data\\Configurations\\RoomConfiguration.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAMwBwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T21:08:43.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UpdateReservationValidator.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Application\\Validators\\UpdateReservationValidator.cs",
+              "RelativeDocumentMoniker": "RoomReservationApi.Application\\Validators\\UpdateReservationValidator.cs",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Application\\Validators\\UpdateReservationValidator.cs",
+              "RelativeToolTip": "RoomReservationApi.Application\\Validators\\UpdateReservationValidator.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T18:08:45.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20260613212843_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Infrastructure\\Migrations\\20260613212843_InitialCreate.cs",
+              "RelativeDocumentMoniker": "RoomReservationApi.Infrastructure\\Migrations\\20260613212843_InitialCreate.cs",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Infrastructure\\Migrations\\20260613212843_InitialCreate.cs",
+              "RelativeToolTip": "RoomReservationApi.Infrastructure\\Migrations\\20260613212843_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T21:28:44.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "RoomReservationApi.Api\\appsettings.json",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Api\\appsettings.json",
+              "RelativeToolTip": "RoomReservationApi.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-13T18:45:55.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UpdateRoomValidator.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Application\\Validators\\UpdateRoomValidator.cs",
+              "RelativeDocumentMoniker": "RoomReservationApi.Application\\Validators\\UpdateRoomValidator.cs",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Application\\Validators\\UpdateRoomValidator.cs",
+              "RelativeToolTip": "RoomReservationApi.Application\\Validators\\UpdateRoomValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T18:07:37.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UpdateRoomDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Application\\DTOs\\UpdateRoomDto.cs",
+              "RelativeDocumentMoniker": "RoomReservationApi.Application\\DTOs\\UpdateRoomDto.cs",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Application\\DTOs\\UpdateRoomDto.cs",
+              "RelativeToolTip": "RoomReservationApi.Application\\DTOs\\UpdateRoomDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T17:35:24.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "UpdateReservationDto.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Application\\DTOs\\UpdateReservationDto.cs",
+              "RelativeDocumentMoniker": "RoomReservationApi.Application\\DTOs\\UpdateReservationDto.cs",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Application\\DTOs\\UpdateReservationDto.cs",
+              "RelativeToolTip": "RoomReservationApi.Application\\DTOs\\UpdateReservationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T17:15:34.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IReservationRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Domain\\Interfaces\\Repositories\\IReservationRepository.cs",
+              "RelativeDocumentMoniker": "RoomReservationApi.Domain\\Interfaces\\Repositories\\IReservationRepository.cs",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Domain\\Interfaces\\Repositories\\IReservationRepository.cs",
+              "RelativeToolTip": "RoomReservationApi.Domain\\Interfaces\\Repositories\\IReservationRepository.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T18:02:39.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IRoomRepository.cs",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Domain\\Interfaces\\Repositories\\IRoomRepository.cs",
+              "RelativeDocumentMoniker": "RoomReservationApi.Domain\\Interfaces\\Repositories\\IRoomRepository.cs",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Domain\\Interfaces\\Repositories\\IRoomRepository.cs",
+              "RelativeToolTip": "RoomReservationApi.Domain\\Interfaces\\Repositories\\IRoomRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-13T16:07:02.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "RoomReservationApi.Application.csproj",
+              "DocumentMoniker": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Application\\RoomReservationApi.Application.csproj",
+              "RelativeDocumentMoniker": "RoomReservationApi.Application\\RoomReservationApi.Application.csproj",
+              "ToolTip": "C:\\Projects\\Git\\NetDataFirst\\NetCodeFirstFarm\\RoomReservationApi.Application\\RoomReservationApi.Application.csproj",
+              "RelativeToolTip": "RoomReservationApi.Application\\RoomReservationApi.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-13T15:54:43.659Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 507,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

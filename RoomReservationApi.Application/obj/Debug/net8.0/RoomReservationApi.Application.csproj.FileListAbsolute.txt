@@ -1,0 +1,17 @@
+C:\Projects\Git\NetDataFirst\NetCodeFirstFarm\RoomReservationApi.Application\bin\Debug\net8.0\RoomReservationApi.Application.deps.json
+C:\Projects\Git\NetDataFirst\NetCodeFirstFarm\RoomReservationApi.Application\bin\Debug\net8.0\RoomReservationApi.Application.dll
+C:\Projects\Git\NetDataFirst\NetCodeFirstFarm\RoomReservationApi.Application\bin\Debug\net8.0\RoomReservationApi.Application.pdb
+C:\Projects\Git\NetDataFirst\NetCodeFirstFarm\RoomReservationApi.Application\bin\Debug\net8.0\RoomReservationApi.Domain.dll
+C:\Projects\Git\NetDataFirst\NetCodeFirstFarm\RoomReservationApi.Application\bin\Debug\net8.0\RoomReservationApi.Shared.dll
+C:\Projects\Git\NetDataFirst\NetCodeFirstFarm\RoomReservationApi.Application\bin\Debug\net8.0\RoomReservationApi.Domain.pdb
+C:\Projects\Git\NetDataFirst\NetCodeFirstFarm\RoomReservationApi.Application\bin\Debug\net8.0\RoomReservationApi.Shared.pdb
+C:\Projects\Git\NetDataFirst\NetCodeFirstFarm\RoomReservationApi.Application\obj\Debug\net8.0\RoomReservationApi.Application.csproj.AssemblyReference.cache
+C:\Projects\Git\NetDataFirst\NetCodeFirstFarm\RoomReservationApi.Application\obj\Debug\net8.0\RoomReservationApi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Git\NetDataFirst\NetCodeFirstFarm\RoomReservationApi.Application\obj\Debug\net8.0\RoomReservationApi.Application.AssemblyInfoInputs.cache
+C:\Projects\Git\NetDataFirst\NetCodeFirstFarm\RoomReservationApi.Application\obj\Debug\net8.0\RoomReservationApi.Application.AssemblyInfo.cs
+C:\Projects\Git\NetDataFirst\NetCodeFirstFarm\RoomReservationApi.Application\obj\Debug\net8.0\RoomReservationApi.Application.csproj.CoreCompileInputs.cache
+C:\Projects\Git\NetDataFirst\NetCodeFirstFarm\RoomReservationApi.Application\obj\Debug\net8.0\RoomRese.52C6D0CC.Up2Date
+C:\Projects\Git\NetDataFirst\NetCodeFirstFarm\RoomReservationApi.Application\obj\Debug\net8.0\RoomReservationApi.Application.dll
+C:\Projects\Git\NetDataFirst\NetCodeFirstFarm\RoomReservationApi.Application\obj\Debug\net8.0\refint\RoomReservationApi.Application.dll
+C:\Projects\Git\NetDataFirst\NetCodeFirstFarm\RoomReservationApi.Application\obj\Debug\net8.0\RoomReservationApi.Application.pdb
+C:\Projects\Git\NetDataFirst\NetCodeFirstFarm\RoomReservationApi.Application\obj\Debug\net8.0\ref\RoomReservationApi.Application.dll

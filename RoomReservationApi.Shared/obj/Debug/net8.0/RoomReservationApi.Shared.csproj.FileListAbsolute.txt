@@ -1,0 +1,11 @@
+C:\Projects\Git\NetDataFirst\NetCodeFirstFarm\RoomReservationApi.Shared\bin\Debug\net8.0\RoomReservationApi.Shared.deps.json
+C:\Projects\Git\NetDataFirst\NetCodeFirstFarm\RoomReservationApi.Shared\bin\Debug\net8.0\RoomReservationApi.Shared.dll
+C:\Projects\Git\NetDataFirst\NetCodeFirstFarm\RoomReservationApi.Shared\bin\Debug\net8.0\RoomReservationApi.Shared.pdb
+C:\Projects\Git\NetDataFirst\NetCodeFirstFarm\RoomReservationApi.Shared\obj\Debug\net8.0\RoomReservationApi.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Git\NetDataFirst\NetCodeFirstFarm\RoomReservationApi.Shared\obj\Debug\net8.0\RoomReservationApi.Shared.AssemblyInfoInputs.cache
+C:\Projects\Git\NetDataFirst\NetCodeFirstFarm\RoomReservationApi.Shared\obj\Debug\net8.0\RoomReservationApi.Shared.AssemblyInfo.cs
+C:\Projects\Git\NetDataFirst\NetCodeFirstFarm\RoomReservationApi.Shared\obj\Debug\net8.0\RoomReservationApi.Shared.csproj.CoreCompileInputs.cache
+C:\Projects\Git\NetDataFirst\NetCodeFirstFarm\RoomReservationApi.Shared\obj\Debug\net8.0\RoomReservationApi.Shared.dll
+C:\Projects\Git\NetDataFirst\NetCodeFirstFarm\RoomReservationApi.Shared\obj\Debug\net8.0\refint\RoomReservationApi.Shared.dll
+C:\Projects\Git\NetDataFirst\NetCodeFirstFarm\RoomReservationApi.Shared\obj\Debug\net8.0\RoomReservationApi.Shared.pdb
+C:\Projects\Git\NetDataFirst\NetCodeFirstFarm\RoomReservationApi.Shared\obj\Debug\net8.0\ref\RoomReservationApi.Shared.dll

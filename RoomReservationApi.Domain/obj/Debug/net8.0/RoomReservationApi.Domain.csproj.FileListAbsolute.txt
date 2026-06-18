@@ -1,0 +1,11 @@
+C:\Projects\Git\NetDataFirst\NetCodeFirstFarm\RoomReservationApi.Domain\bin\Debug\net8.0\RoomReservationApi.Domain.deps.json
+C:\Projects\Git\NetDataFirst\NetCodeFirstFarm\RoomReservationApi.Domain\bin\Debug\net8.0\RoomReservationApi.Domain.dll
+C:\Projects\Git\NetDataFirst\NetCodeFirstFarm\RoomReservationApi.Domain\bin\Debug\net8.0\RoomReservationApi.Domain.pdb
+C:\Projects\Git\NetDataFirst\NetCodeFirstFarm\RoomReservationApi.Domain\obj\Debug\net8.0\RoomReservationApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Git\NetDataFirst\NetCodeFirstFarm\RoomReservationApi.Domain\obj\Debug\net8.0\RoomReservationApi.Domain.AssemblyInfoInputs.cache
+C:\Projects\Git\NetDataFirst\NetCodeFirstFarm\RoomReservationApi.Domain\obj\Debug\net8.0\RoomReservationApi.Domain.AssemblyInfo.cs
+C:\Projects\Git\NetDataFirst\NetCodeFirstFarm\RoomReservationApi.Domain\obj\Debug\net8.0\RoomReservationApi.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\Git\NetDataFirst\NetCodeFirstFarm\RoomReservationApi.Domain\obj\Debug\net8.0\RoomReservationApi.Domain.dll
+C:\Projects\Git\NetDataFirst\NetCodeFirstFarm\RoomReservationApi.Domain\obj\Debug\net8.0\refint\RoomReservationApi.Domain.dll
+C:\Projects\Git\NetDataFirst\NetCodeFirstFarm\RoomReservationApi.Domain\obj\Debug\net8.0\RoomReservationApi.Domain.pdb
+C:\Projects\Git\NetDataFirst\NetCodeFirstFarm\RoomReservationApi.Domain\obj\Debug\net8.0\ref\RoomReservationApi.Domain.dll
